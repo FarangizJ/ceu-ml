@@ -17,4 +17,4 @@ quiz*
 plans/
 experiments/
 
-data/oulad/*
+data/oulad/**.html
